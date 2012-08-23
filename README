@@ -1,0 +1,16 @@
+innodb_buffer_pool_size
+
+This is the innodb_buffer_pool_size module.
+
+License
+-------
+
+
+Contact
+-------
+
+
+Support
+-------
+
+Please log tickets and issues at our [github](https://github.com/dhgwilliam/puppet-innodb_buffer_pool_size)
