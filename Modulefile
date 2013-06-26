@@ -1,6 +1,5 @@
 name    'dhgwilliam-innodb_buffer_pool_size'
-version '0.0.1'
-source 'UNKNOWN'
+version '0.0.2'
 author 'dhgwilliam'
 license 'Apache License, Version 2.0'
 summary 'Adds custom fact to display MySQL innodb_buffer_pool_size setting'
